@@ -1,7 +1,7 @@
 <?php
 
 function db_connect() {
-   $result = new mysqli('cs4111.c5to4aweyhy9.us-west-2.rds.amazonaws.com', 'yd2302', 'database', 'cs4111', '3306');
+   $result = new mysqli('****', '***', '****', '****', '****');
    if (!$result) {
      throw new Exception('Could not connect to database server');
    }
