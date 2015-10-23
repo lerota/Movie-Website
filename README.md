@@ -12,3 +12,5 @@ Website supports:
 - Most popular movies calculated based on user ratings
 - Purchase with/without discount based on user identity
 - Record purchase history
+
+Developed using php&MySQL database.
